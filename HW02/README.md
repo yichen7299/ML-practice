@@ -17,5 +17,8 @@ In this homework, we assume that
 ● gradient norm < 1e-3 and minimum ratio <= 0.5 => saddle point, 
 ● gradient norm >= 1e-3 => none of the above.
 
+程式碼:RuntimeError:
+The default behavior has changed from using the upper triangular portion of the matrix by default to using the lower triangular portion.
+(Skip)
 
 ### [程式碼](https://colab.research.google.com/drive/1hIGgC970GnT9RC0om6ZeSIrjTRq4AhkH?usp=sharing)
