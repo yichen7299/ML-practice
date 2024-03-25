@@ -1,14 +1,16 @@
 ## COVID-19 Cases Prediction
+
+### Task
+
+* Solve a regression problem with **deep neural networks (DNN)**.
+* Understand basic DNN training tips.
+* Familiarize yourself with PyTorch.
+
+### Resorces
+
 [作業說明](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/hw/HW01/HW01.pdf)
 [Pytorch Tutorial](https://www.youtube.com/watch?v=8DaeP2vSu90)
 [code說明](https://www.youtube.com/watch?v=cFIImk_yBTg)
 [Dataset from Kaggle](https://www.kaggle.com/competitions/ml2022spring-hw1/overview)
-
-補充:
-不同optimizer:
-[[機器學習ML NOTE]SGD, Momentum, AdaGrad, Adam Optimizer](https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%96%E7%95%8C/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-note-sgd-momentum-adagrad-adam-optimizer-f20568c968db)
-
-TensorBoardX: 用來視覺化的工具
-[TensorBoardX 介紹 (在 PyTorch 中使用 Tensorboard）](https://zhuanlan.zhihu.com/p/37626738)
 
 ### [程式碼](https://colab.research.google.com/drive/1enBoFmYv_B_OH6h6YfED9cnZsE3aSqBY?usp=sharing)
